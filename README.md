@@ -7,7 +7,7 @@ Repository used for Mandarake Website, using Outsystems.
 This repository contains the project developed for the Mandarake website, using Outsystems Reactive Web.
 Developed the app covering three fundamental modules:
 
--Minimalist and Precise Design
+- Minimalist and Precise Design
 Clean, user-friendly interface focusing on simplicity and usability.
 
 - Multi-Language Support
